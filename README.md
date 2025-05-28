@@ -56,9 +56,8 @@
 
 ## 📫 ¿Dónde encontrarme?
 
-- 📧 [Correo](mailto:tuemail@ejemplo.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🌐 [Portafolio](https://tuportafolio.com)
+- 📧 [Correo](csanchezhernández567@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/carlos-alberto-sanchez-hernandez)
 
 ---
 
